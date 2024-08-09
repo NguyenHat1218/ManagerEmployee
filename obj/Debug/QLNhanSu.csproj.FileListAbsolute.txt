@@ -1,0 +1,107 @@
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNhanSu.csproj.AssemblyReference.cache
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNhanSu.csproj.SuggestedBindingRedirects.cache
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNhanSu.csproj.GenerateResource.cache
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+D:\LTUD\THBuoi2\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+D:\LTUD\THBuoi2\QLNhanSu\bin\Debug\QLNhanSu.exe
+D:\LTUD\THBuoi2\QLNhanSu\bin\Debug\QLNhanSu.pdb
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNhanSu.exe
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNhanSu.pdb
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNS.BangTTNV.resources
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNS.HDLD.resources
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNS.HienThiTT.resources
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNS.Login.resources
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\WindowsFormsApp1.ThongKe.resources
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNhanSu.TrangChu.resources
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\QLNhanSu.LuongNV.resources
+D:\LTUD\THBuoi2\QLNhanSu\obj\Debug\windowsformdangnhap.kyluatvakhenhuong.resources
+D:\LTUD\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+D:\LTUD\QLNhanSu\bin\Debug\QLNhanSu.exe
+D:\LTUD\QLNhanSu\bin\Debug\QLNhanSu.pdb
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.csproj.AssemblyReference.cache
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.csproj.SuggestedBindingRedirects.cache
+D:\LTUD\QLNhanSu\obj\Debug\QLNS.BangTTNV.resources
+D:\LTUD\QLNhanSu\obj\Debug\QLNS.HDLD.resources
+D:\LTUD\QLNhanSu\obj\Debug\QLNS.HienThiTT.resources
+D:\LTUD\QLNhanSu\obj\Debug\windowsformdangnhap.kyluatvakhenhuong.resources
+D:\LTUD\QLNhanSu\obj\Debug\QLNS.Login.resources
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.LuongNV.resources
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+D:\LTUD\QLNhanSu\obj\Debug\WindowsFormsApp1.ThongKe.resources
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.TrangChu.resources
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.csproj.GenerateResource.cache
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.exe
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.pdb
+D:\LTUD\QLNhanSu\obj\Debug\WindowsFormsApp1.QLNV.resources
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.Themnv.resources
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.CNHDLD.resources
+D:\LTUD\QLNhanSu\bin\Debug\EPPlus.dll
+D:\LTUD\QLNhanSu\bin\Debug\EPPlus.Interfaces.dll
+D:\LTUD\QLNhanSu\bin\Debug\EPPlus.System.Drawing.dll
+D:\LTUD\QLNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LTUD\QLNhanSu\bin\Debug\EPPlus.xml
+D:\LTUD\QLNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.csproj.CopyComplete
+D:\HTTT\LTUD\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+D:\HTTT\LTUD\QLNhanSu\bin\Debug\QLNhanSu.exe
+D:\HTTT\LTUD\QLNhanSu\bin\Debug\QLNhanSu.pdb
+D:\HTTT\LTUD\QLNhanSu\bin\Debug\EPPlus.dll
+D:\HTTT\LTUD\QLNhanSu\bin\Debug\EPPlus.Interfaces.dll
+D:\HTTT\LTUD\QLNhanSu\bin\Debug\EPPlus.System.Drawing.dll
+D:\HTTT\LTUD\QLNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\HTTT\LTUD\QLNhanSu\bin\Debug\EPPlus.xml
+D:\HTTT\LTUD\QLNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.csproj.AssemblyReference.cache
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.csproj.SuggestedBindingRedirects.cache
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNS.BangTTNV.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.CNHDLD.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNS.HDLD.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNS.HienThiTT.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\windowsformdangnhap.kyluatvakhenhuong.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNS.Login.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.LuongNV.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\WindowsFormsApp1.QLNV.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.Themnv.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\WindowsFormsApp1.ThongKe.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.TrangChu.resources
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.csproj.GenerateResource.cache
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.csproj.CopyComplete
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.exe
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.pdb
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.DoiMatKhau.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\bin\Debug\EPPlus.dll
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\bin\Debug\EPPlus.xml
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.csproj.AssemblyReference.cache
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNS.BangTTNV.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.CNHDLD.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.DoiMatKhau.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNS.HDLD.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNS.HienThiTT.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\windowsformdangnhap.kyluatvakhenhuong.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNS.Login.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.LuongNV.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\WindowsFormsApp1.QLNV.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.Themnv.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\WindowsFormsApp1.ThongKe.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.TrangChu.resources
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.csproj.GenerateResource.cache
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.csproj.CopyComplete
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.exe
+C:\Users\Le Nguyen Hat\Downloads\QLNhanSu\obj\Debug\QLNhanSu.pdb
+D:\HTTT\LTUD\QLNhanSu\obj\Debug\QLNhanSu.NgoaiNgu.resources
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.DoiMatKhau.resources
+D:\LTUD\QLNhanSu\obj\Debug\QLNhanSu.NgoaiNgu.resources
